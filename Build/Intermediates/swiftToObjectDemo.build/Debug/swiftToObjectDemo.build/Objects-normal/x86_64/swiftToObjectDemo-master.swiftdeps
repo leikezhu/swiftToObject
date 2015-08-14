@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "a27cc9f5b04747b3aa785acc38bf705d"
+inputs: 
+- !dirty "/Users/leikezhu/Desktop/swiftToObjectDemo/swiftToObjectDemo/ViewController.swift"
+- !dirty "/Users/leikezhu/Desktop/swiftToObjectDemo/swiftToObjectDemo/AppDelegate.swift"

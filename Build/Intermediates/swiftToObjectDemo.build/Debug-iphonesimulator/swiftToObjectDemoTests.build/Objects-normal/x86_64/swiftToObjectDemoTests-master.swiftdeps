@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "78414800325444318ac9831c5801c82d"
+inputs: 
+- "/Users/leikezhu/Documents/git/swiftToObjectDemo/swiftToObjectDemoTests/swiftToObjectDemoTests.swift"
